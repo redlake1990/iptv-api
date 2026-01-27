@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-25 18:39:27,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-01-27 18:44:00,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -298,22 +298,23 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=81ac3a9691673bbadc0
 云南卫视,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86$订阅源
 
 🌊港·澳·台,#genre#
+翡翠台,http://cdn6.163189.xyz/163189/fct4k$订阅源
+翡翠台,http://cdn6.163189.xyz/163189/fct4k$订阅源
 翡翠台,https://cdn6.163189.xyz/163189/fct4k$订阅源
 翡翠台,https://cdn6.163189.xyz/163189/fct4k$订阅源
-翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/$订阅源
-翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/$订阅源
-翡翠台,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8$订阅源
-翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8$订阅源
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f$订阅源
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3$订阅源
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct$订阅源
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4$订阅源
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn$订阅源
 明珠台,http://php.jdshipin.com/smt.php?id=pearl_twn$订阅源
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2$订阅源
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt$订阅源
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
 明珠台,http://r.jdshipin.com/ZQ4kN$订阅源
 明珠台,http://r.jdshipin.com/ZQ4kN$订阅源
 明珠台,http://r.jdshipin.com/jUx8K$订阅源
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
@@ -321,7 +322,7 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=81ac3a9691673bbadc0
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2$订阅源
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php$订阅源
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$订阅源
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$订阅源
 凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8$订阅源
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$订阅源
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$订阅源
@@ -329,7 +330,7 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=81ac3a9691673bbadc0
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd$订阅源
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2$订阅源
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php$订阅源
-凤凰资讯,http://php.jdshipin.com/iptv.php?id=fhzx$订阅源
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8$订阅源
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$订阅源
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk$订阅源
@@ -337,7 +338,6 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=81ac3a9691673bbadc0
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2$订阅源
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk$订阅源
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2$订阅源
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
@@ -348,15 +348,12 @@ CHC家庭影院,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%
 CHC家庭影院,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2%E5%8F%B0$订阅源
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$订阅源
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=893aa32f9d861d92c0661b8125e5b12471106642e4d0f341956e45e2f60dbb2179c3b5b6f05c2e8242e24d254815578255456ce991c2d337b226ce49c025efe16f2d4715157e642b7447f0bf06$订阅源
-CHC家庭影院,http://eastscreen.tv/ooooo.php$订阅源
-CHC家庭影院,http://eastscreen.tv/ooooo.php$订阅源
 CHC家庭影院,https://live.chinacert.cftest5.cn/mg/?id=644368373$订阅源
 CHC家庭影院,https://live.chinacert.cftest5.cn/mg/?id=644368373$订阅源
 CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1$订阅源
 CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E5%8F%B0$订阅源
 CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9$订阅源
 CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=fb9ef80443f06c3612ddd35545ec1054b5bcab3941fc46ecf84808bdd512d7b2cf16d34fdf955bff71bf01f818f6918ba2d7f536dc5451d1519d15cf8a5671bf16ea8a3bbc71db4477476e211d$订阅源
-CHC动作电影,http://eastscreen.tv/ooooo.php$订阅源
 CHC动作电影,https://live.chinacert.cftest5.cn/mg/?id=644368714$订阅源
 NewTV惊悚悬疑,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010077$订阅源
 NewTV惊悚悬疑,https://iptv.catvod.com/live.php?id=NewTV%E6%83%8A%E6%82%9A%E6%82%AC%E7%96%91$订阅源
@@ -364,9 +361,9 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1$订阅源
 黑莓电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010073$订阅源
 黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8$订阅源
-天映经典,https://o11.163189.xyz/stream/live/ccm/$订阅源
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2$订阅源
 天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2$订阅源
+天映经典,https://o11.163189.xyz/stream/live/ccm/$订阅源
 天映经典,http://cdn10.163189.xyz/163189/ccm$订阅源
 天映经典,http://cdn10.163189.xyz/163189/ccm$订阅源
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv$订阅源
