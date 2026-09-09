@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-07 23:39:22,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-09-09 22:18:29,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -13,9 +13,9 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 📡卫视频道,#genre#
 湖南卫视,https://live.chinacert.cftest5.cn/zgst/live/hunan4k$订阅源
 湖南卫视,https://live.chinacert.cftest5.cn/zgst/live/hunan4k$订阅源
-东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
-东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 东南卫视,https://live.chinacert.cftest5.cn/cnmg/live/849116810$订阅源
+东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
+东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$订阅源
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$订阅源
@@ -95,9 +95,6 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 中华小当家,https://live.ottiptv.cc/huya/11342413$订阅源
 猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
 猫和老鼠,https://live.ottiptv.cc/huya/11352879$订阅源
-经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
-经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 蜡笔小新,https://live.ottiptv.cc/bilibili/30837590$订阅源
-漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
 
 🎵音乐频道,#genre#
